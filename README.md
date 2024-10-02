@@ -16,8 +16,9 @@ The Kanban board application had already been deployed and seeded with user info
 ## Usage
 Once you have clicked on the Kanban board application weblink, you will be greeted with the entry screen. Click on the login button in the top right corner to begin using the application. Some seed logins will be provided below. If they successfully enter the correct user information, they will be able to view the board and create/edit/delete ticekts. If their user information is incorrect, they will be rejected and unable to login.
 
-![Candidate Search Card](./public/candidateCard.png)
-![Potential Candidates Table](./public/potentialCandidates.png)
+![Seed Users](./images/seedUsers.png)
+![Login Screen](./images/loginScreen.png)
+![Kanban Board](./images/kanbanBoard.png)
 
 ## Contributing
 Starter code provided by UCI Software Engineering Boot Camp. Developed by Daniel Olaes.
